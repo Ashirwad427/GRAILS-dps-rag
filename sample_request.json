@@ -1,0 +1,24 @@
+{
+  "user": {
+    "user_id": "U001",
+    "user_type": "External",
+    "organization": "ABC University"
+  },
+  "data_request": {
+    "data_item": "patient_diagnosis",
+    "operation": "read"
+  },
+  "context": {
+    "purpose": "research",
+    "jurisdiction": "India",
+    "domain": "healthcare"
+  },
+  "metadata": {
+    "source": "hospital",
+    "ownership": "organizational",
+    "domain": "healthcare",
+    "pii": true,
+    "sensitivity": "high",
+    "data_type": "categorical"
+  }
+}
